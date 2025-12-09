@@ -179,7 +179,9 @@ button:hover {
     width: 28px;
     height: 28px;
 }
-
+.dowload-b{
+    text-align:center;
+}
 /* ------------------------------------------------------- */
 
 /* ---------------- Promo Image Gallery (Download Page) ---------------- */
